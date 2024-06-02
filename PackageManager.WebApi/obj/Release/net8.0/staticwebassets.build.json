@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pgbtOGjxvi7EYq1MQd1xaw0mzfAZ4ckbN4BGKqWEuKE=",
+  "Source": "PackageManager.WebApi",
+  "BasePath": "_content/PackageManager.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

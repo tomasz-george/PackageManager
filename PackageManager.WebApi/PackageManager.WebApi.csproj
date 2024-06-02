@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationInsightsResourceId>/subscriptions/cacc7187-8cf2-4d05-b857-6f81be076fab/resourceGroups/package-manager-rg/providers/microsoft.insights/components/PackageManager</ApplicationInsightsResourceId>
+    <UserSecretsId>6d4d9244-39c2-4b3a-8005-475a9337e9b5</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.22.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.22.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PackageManager.Application\PackageManager.Application.csproj" />
+  </ItemGroup>
+
+</Project>

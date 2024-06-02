@@ -1,0 +1,6 @@
+@PackageManager_HostAddress = http://localhost:5204
+
+POST {{PackageManager_HostAddress}}/validate-installation/
+Accept: application/octet-stream
+
+###

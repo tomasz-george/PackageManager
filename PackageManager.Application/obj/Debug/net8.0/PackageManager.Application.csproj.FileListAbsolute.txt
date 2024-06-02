@@ -1,0 +1,12 @@
+C:\Repos\PackageManager\PackageManager.Application\bin\Debug\net8.0\PackageManager.Application.deps.json
+C:\Repos\PackageManager\PackageManager.Application\bin\Debug\net8.0\PackageManager.Application.dll
+C:\Repos\PackageManager\PackageManager.Application\bin\Debug\net8.0\PackageManager.Application.pdb
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\PackageManager.Application.csproj.AssemblyReference.cache
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\PackageManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\PackageManager.Application.AssemblyInfoInputs.cache
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\PackageManager.Application.AssemblyInfo.cs
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\PackageManager.Application.csproj.CoreCompileInputs.cache
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\PackageManager.Application.dll
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\refint\PackageManager.Application.dll
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\PackageManager.Application.pdb
+C:\Repos\PackageManager\PackageManager.Application\obj\Debug\net8.0\ref\PackageManager.Application.dll
